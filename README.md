@@ -2,7 +2,7 @@
 
 Link to Dataset used by this project: https://ourworldindata.org/covid-deaths
 
-Time period of data: 2020-2-24 to 2023-02-02
+Time period of data: 2020-2-24 to 2023-02-07
 
 Two files are used in this project: CovidDeaths2023 & CovidVaccinations2023
 
